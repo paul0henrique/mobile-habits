@@ -10,7 +10,7 @@ export function Header(){
             <Logo />
 
             <TouchableOpacity
-                activeOpacity={0.5}
+                activeOpacity={0.7}
                 className="flex-row h-11 px-4 border border-violet-500 rounded-lg items-center"
             >
                 <Feather
